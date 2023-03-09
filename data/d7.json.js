@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"d7","name":"amuzeshyar@localhost","description":null,"summary":[{"field":"Host","value":"localhost"},{"field":"Database","value":"amuzeshyar"},{"field":"DBMS","value":"MySQL 8.x"}],"modules":[{"id":"m109","name":"مدل"}],"dbObjects":[{"count":30,"id":"d7t","name":"Tables"}],"show_schema":false};
